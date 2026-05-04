@@ -1,0 +1,11 @@
+min_length: 5
+
+blocked_keywords:
+  - illegal
+  - hack
+  - exploit
+
+thresholds:
+  refuse: 50
+  escalate: 40
+  clarify: 20
